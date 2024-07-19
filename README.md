@@ -1,1 +1,1 @@
-#Creatin a weather-app using React.js
+# Creating a weather-app using React.js
